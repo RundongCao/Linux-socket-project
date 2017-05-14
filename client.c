@@ -12,7 +12,7 @@
 
 #define IP "127.0.0.1"
 #define PORT "23643" // the port number for TCP
-#define MAXDATASIZE 100 // max number of bytes we can get at once
+#define MAXDATASIZE 500 // max number of bytes we can get at once
 
 // get sockaddr, IPv4 or IPv6:
 void *get_in_addr(struct sockaddr *sa)
