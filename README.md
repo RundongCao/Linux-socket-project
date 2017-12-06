@@ -1,2 +1,2 @@
-# UNIX_socket
-This project is using C/C++ to complete a socket project based on UNIX system
+# Linux_socket
+This project is using C/C++ to complete a socket project based on Linux system
